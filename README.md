@@ -17,7 +17,7 @@ TO BE ADDED:
 TO BE FINISHED:
 	
 	Quiz Module
-	PHP of all Navs
+	CRUD of all Navs
 	
 
 SUGGESTION:
