@@ -10,5 +10,5 @@ TO BE FIXED:
     -1 login
 
 SUGGESTION:
-  add classcode for each subjects. like Google Classroom/Edmodo
-    (e.g. Adas12SAD)
+add classcode for each subjects. like Google Classroom/Edmodo
+  (e.g. Adas12SAD)
